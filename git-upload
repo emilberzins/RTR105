@@ -5,6 +5,6 @@ git config --global user.email emilberzin@gmail.com
 git add .
 #git commit -m "20180918"
 git commit -m $1
-git push orginal master 
+git push origin master 
 fi
 
