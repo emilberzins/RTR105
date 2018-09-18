@@ -1,0 +1,48 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cat create_in.sh
+    4  echo $PATH
+    5  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+    6  chmod create_in.sh
+    7  ls -l
+    8  ~$ c
+    9  c
+   10  create_in.sh
+   11  ls 
+   12  ls
+   13  PATH=
+   14  PATH=$PATH:~/maps
+   15  echo $PATH
+   16  ~/maps
+   17  ./create_in.sh
+   18  ls
+   19  pwd
+   20  ls -l
+   21  git clone https://github.com/emilberzins/rtr296
+   22  cd ~
+   23  ls
+   24  echo $PATH
+   25  history
+   26  ls
+   27  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   28  ls
+   29  echo $PATH
+   30  PATH=$PATH:~/maps
+   31  echo $PATH
+   32  ls
+   33  git clone https://github.com/emilberzins/rtr296
+   34  git clone https://github.com/emilberzins/RTR105
+   35  ls -l
+   36  /RTR105@ ls -l
+   37  /RTR105$ ls -l
+   38  /RTR105$ pwd
+   39  pwd
+   40  /RTR105$ nano README.md
+   41  /RTR105$ nano readme.md
+   42  cd
+   43  cd R
+   44  cd RTR105/
+   45  nano README.md
+   46  nano git-upload
+   47  ls -l
+   48  history > history_20180918.txt
